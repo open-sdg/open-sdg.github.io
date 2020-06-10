@@ -4,27 +4,41 @@ permalink: /
 header:
   overlay_color: "#222"
   actions:
-    - label: "<i class='fas fa-info-circle'></i> Read more"
-      url: "/about"
+    - label: "<i class='fas fa-info-circle'></i> Get started"
+      url: "https://open-sdg.readthedocs.io/en/latest/"
 excerpt: >
-  An open source, free-to-reuse platform for managing and publishing data and statistics related to the <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">UN Sustainable Development Goals</a> (SDGs).<br />
-  <small><a href="https://github.com/open-sdg/open-sdg/releases/tag/1.0.0">Latest release v1.0.0</a></small>
+  An open source, free-to-reuse platform for managing and publishing data and statistics related to the <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">UN Sustainable Development Goals</a> (SDGs).
 feature_row:
-  - title: "Feature-rich"
-    excerpt: "Flexible and customisable with a variety of optional features, which can be easily configured."
-    url: "https://open-sdg.readthedocs.io/en/latest/open-sdg-features/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - title: "Open-source and free"
-    excerpt: "Built exclusively with open-source libraries and tools, and can be hosted and maintained using free services."
+  - title: "Open source and free"
+    excerpt: "Built only with open-source libraries and tools. Hosted and maintained using free services."
     url: "https://open-sdg.readthedocs.io/en/latest/quick-start/"
     btn_class: "btn--primary"
     btn_label: "Get started"
+  - title: "Latest release"
+    excerpt: "What’s included in the latest release? Check out the list of updates."
+    url: "https://open-sdg.readthedocs.io/en/latest/updates/"
+    btn_class: "btn--primary"
+    btn_label: "Latest release"
+  - title: "Feature rich"
+    excerpt: "Flexible and customisable with a variety of optional features."
+    url: "https://open-sdg.readthedocs.io/en/latest/open-sdg-features/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - title: "Who’s using it?"
+    excerpt: "Which countries and localities are currently using the Open SDG platform?"
+    url: "https://open-sdg.readthedocs.io/en/latest/community/"
+    btn_class: "btn--primary"
+    btn_label: "Our users"
   - title: "Questions?"
-    excerpt: "See our documentation for more details on the Open SDG platform."
+    excerpt: "Answers to frequently asked questions about the Open SDG platform"
     url: "https://open-sdg.readthedocs.io/en/latest/faq/"
     btn_class: "btn--primary"
     btn_label: "Frequently asked questions"
+  - title: "Support"
+    excerpt: "Need help? Please get in touch with the support team."
+    url: "https://open-sdg.readthedocs.io/en/latest/support/"
+    btn_class: "btn--primary"
+    btn_label: "Contact us"
 ---
 
 {% include feature_row %}
