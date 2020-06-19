@@ -8,7 +8,7 @@ A recording of the webinar is available, as well as slides for each of the indiv
 
 ## Agenda
 
-|Time (GMT+1)|Duration|Topic|Presenter|
+|Time (GMT+1)|Duration|Topic (includes link to presentation)|Presenter|
 |------------|--------|-----|---------|
 |13:00|5 mins|Introduction|Ann Corp (ONS)|
 |13:05|15 mins|[Latest updates to Open SDG](/assets/documents/webinar_17-June-2020/Open-SDG-webinar-open-sdg-updates.pdf)|Brock Fanning (CODE)|
