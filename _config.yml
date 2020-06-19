@@ -279,9 +279,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _events
   - scope:
       path: ""
-      type: pets
+      type: events
     values:
       layout: single
       author_profile: true
