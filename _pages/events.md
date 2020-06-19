@@ -1,6 +1,7 @@
 ---
-layout: posts
-permalink: /events
 title: "Events"
+layout: collection
+permalink: /events
+collection: events
 author_profile: false
 ---
