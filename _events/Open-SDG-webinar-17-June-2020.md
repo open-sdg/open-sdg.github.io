@@ -7,7 +7,6 @@ On the 17th June 2020, the UK Office for National Statistics (ONS), the UN Stati
 A recording of the webinar is available, as well as slides for each of the individual presentations.
 
 ## Agenda
-### Includes links to presentations
 
 |Time (GMT+1)|Duration|Topic|Presenter|
 |------------|--------|-----|---------|
