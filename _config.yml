@@ -140,6 +140,9 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+# Apply any custom css
+custom_css:
+  - /assets/css/custom.css
 
 # Reading Files
 include:
