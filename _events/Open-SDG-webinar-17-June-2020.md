@@ -7,11 +7,12 @@ On the 17th June 2020, the UK Office for National Statistics (ONS), the UN Stati
 A recording of the webinar is available, as well as slides for each of the individual presentations.
 
 ## Agenda
+### Includes links to presentations
 
 |Time (GMT+1)|Duration|Topic|Presenter|
 |------------|--------|-----|---------|
 |13:00|5 mins|Introduction|Ann Corp (ONS)|
-|13:05|15 mins|[Latest updates to Open SDG]((/assets/documents/webinar_17-June-2020/Open-SDG-webinar-open-sdg-updates.pdf)|Brock Fanning (CODE)|
+|13:05|15 mins|[Latest updates to Open SDG](/assets/documents/webinar_17-June-2020/Open-SDG-webinar-open-sdg-updates.pdf)|Brock Fanning (CODE)|
 |13:20|10 mins|[How to request new features and raise issues](/assets/documents/webinar_17-June-2020/Open-SDG-webinar-request-new-features-raise-issues-slides.pdf)|Lucy Gwilliam (ONS)|
 |13:30|15 mins|Q and A (questions raised beforehand and at webinar)|Ann Corp (ONS)|
 |13:45|10 mins|[Country experience from Kyrgyzstan (including questions)](/assets/documents/webinar_17-June-2020/Open-SDG-webinar-Kyrgyzstan-country-experience-slides.pdf)|Nazira Kerimalieva (NSC)|
