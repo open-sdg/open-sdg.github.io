@@ -29,10 +29,6 @@ logo                     : /assets/images/logo.png
 masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-collections:
-  events:
-    output: true
-    permalink: /:collection/:path/
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -283,3 +279,9 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+# Collections
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
