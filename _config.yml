@@ -24,6 +24,7 @@ description              : "Open SDG is an open source, free-to-reuse platform f
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : open-sdg/open-sdg.github.io
+environment              : production
 teaser                   : #/assets/images/sdg-wheel.png
 logo                     : /assets/images/logo.png
 masthead_title           : " "
