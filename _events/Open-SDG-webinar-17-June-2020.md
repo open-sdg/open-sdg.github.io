@@ -2,7 +2,7 @@
 title: "Open SDG webinar - 17 June 2020"
 ---
 
-On the 17 June 2020, the UK Office for National Statistics (ONS), the Center for Open Data Enterprise (CODE) and the UN Statistics Division (UNSD), hosted a webinar for users of Open SDG.
+On the 17 June 2020, the UK Office for National Statistics (ONS), the Center for Open Data Enterprise (CODE) and the UN Statistics Division (UNSD) hosted a webinar for users of Open SDG.
 
 [Download detailed agenda](/assets/documents/webinar_17-June-2020/Open-SDG-Webinar-Agenda.pdf)
 
