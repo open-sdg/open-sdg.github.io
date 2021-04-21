@@ -26,7 +26,7 @@ feature_row:
     btn_label: "Our users"
   - title: "Videos"
     excerpt: "Video about Open SDG and tutorials"
-    url: "https://www.youtube.com/channel/UC4j4msXKD07vps8ER0VR9sQ/videos"
+    url: "https://youtube.com/playlist?list=PLN9TixRVC43SxqfqTZRzWzsQ1jWnXuGkI"
     btn_class: "btn--primary"
     btn_label: "YouTube"
   - title: "Questions?"
