@@ -30,7 +30,7 @@ If you know of an implementation that should be added to this list, please let u
 |Poland* |<http://sdg.gov.pl/>|
 |Rwanda|<https://sustainabledevelopment-rwanda.github.io/>|
 |Sierra Leone|In development|
-|South Korea|In development|
+|South Korea|<http://kostat.go.kr/sdg>|
 |Tajikistan|In development|
 |Turkey|In development|
 |United Kingdom|<https://sdgdata.gov.uk/>|
@@ -43,6 +43,7 @@ If you know of an implementation that should be added to this list, please let u
 |City/region|Link|
 |----|----|
 |Bristol|<https://bristolsdgs.github.io/>|
+|Cantabria|<https://ods-cantabria.github.io/ods-cantabria/>|
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 |Lombardy|In development|
 |Madrid|In development|
