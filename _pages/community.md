@@ -1,5 +1,5 @@
 ---
-title: Who is using Open SDG
+title: Community
 permalink: /community
 layout: single
 author_profile: false
