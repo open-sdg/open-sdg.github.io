@@ -43,6 +43,7 @@ If you know of an implementation that should be added to this list, please let u
 |City/region|Link|
 |----|----|
 |Bristol|<https://bristolsdgs.github.io/>|
+|Canary Islands|<https://www3.gobiernodecanarias.org/aplicaciones/appsistac/ods/>|
 |Cantabria|<https://ods-cantabria.github.io/ods-cantabria/>|
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 |Lombardy|In development|
