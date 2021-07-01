@@ -21,7 +21,7 @@ feature_row:
     btn_label: "Latest release"
   - title: "Who’s using it?"
     excerpt: "Which countries and localities are currently using the Open SDG platform?"
-    url: "https://open-sdg.readthedocs.io/en/latest/community/"
+    url: "/community/"
     btn_class: "btn--primary"
     btn_label: "Our users"
   - title: "Videos"
