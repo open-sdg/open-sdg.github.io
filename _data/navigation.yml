@@ -10,3 +10,23 @@ main:
     url: /events
   - title: "Blog"
     url: /blog
+# community links
+community:
+  - title: Community
+    children:
+      - title: List of users
+        url: /community
+  - title: Case studies
+    children:
+      - title: Armenia
+        url: /community/armenia
+      - title: City of Los Angeles
+        url: /community/los-angeles
+      - title: Germany
+        url: /community/germany
+      - title: Kyrgyzstan
+        url: /community/kyrgyzstan
+      - title: Rwanda
+        url: /community/rwanda
+      - title: United Kingdom
+        url: /community/united-kingdom

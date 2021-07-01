@@ -1,8 +1,7 @@
 ---
-title: Community
+title: List of users
+type: community
 permalink: /community
-layout: single
-author_profile: false
 ---
 
 ## Who is using Open SDG?
