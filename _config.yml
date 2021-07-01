@@ -279,6 +279,9 @@ collections:
   blog:
     output: true
     permalink: /:collection/:path/
+  community:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -310,3 +313,14 @@ defaults:
       author_profile: false
       share: true
       read_time: true
+  # _community
+  - scope:
+      path: ""
+      type: community
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      sidebar:
+        nav: community
