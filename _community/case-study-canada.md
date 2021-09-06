@@ -6,7 +6,7 @@ permalink: /community/canada
 
 ## Link to platform
 
-- Canada’s national reporting: https://sdgcif-data-canada-oddcic-donnee.github.io/
+- Canada’s national reporting: [https://sdgcif-data-canada-oddcic-donnee.github.io/](https://sdgcif-data-canada-oddcic-donnee.github.io/)
 - Canada’s global reporting: The [current data hub](https://www144.statcan.gc.ca/sdg-odd/index-eng.htm) for Canada’s global reporting will be transitioned to the Open SDG platform in the coming months.
 
 ## Why was Open SDG chosen?
