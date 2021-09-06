@@ -20,6 +20,8 @@ community:
     children:
       - title: Armenia
         url: /community/armenia
+      - title: Canada
+        url: /community/canada
       - title: City of Los Angeles
         url: /community/los-angeles
       - title: Germany
