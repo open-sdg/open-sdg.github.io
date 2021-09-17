@@ -21,7 +21,7 @@ If you know of an implementation that should be added to this list, please let u
 |Iceland|<https://visar.hagstofa.is/heimsmarkmidin/>|
 |Kazakhstan|In development|
 |Kyrgyzstan|<https://sustainabledevelopment-kyrgyzstan.github.io/>|
-|Lao PDR|In development|
+|Lao PDR|<https://www.lsb.gov.la/sdg/>|
 |Malta|In development|
 |Moldova|In development|
 |Myanmar|In development|
