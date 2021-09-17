@@ -46,6 +46,7 @@ If you know of an implementation that should be added to this list, please let u
 |Canary Islands|<https://www3.gobiernodecanarias.org/aplicaciones/appsistac/ods/>|
 |Cantabria|<https://ods-cantabria.github.io/ods-cantabria/>|
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
+|Liverpool|In development|
 |Lombardy|In development|
 |Madrid|In development|
 
