@@ -3,6 +3,8 @@ title: Setting up an Open SDG platform for Liverpool
 excerpt: Over the summer of 2021, Amelia Burnham, Politics Student at University of Manchester undertook an internship with the UK SDG team. Learn about her experience setting up an Open SDG platform for the Liverpool 2030 Hub.
 ---
 
+Over the summer of 2021, Amelia Burnham, Politics Student at University of Manchester undertook an internship with the UK SDG team. Learn about her experience setting up an Open SDG platform for the Liverpool 2030 Hub:
+
 Over the summer of 2021, I undertook an internship with the Sustainable Development Goals (SDGs) team at the Office for National Statistics (ONS) in the UK. My main role was to construct an Open SDG platform for the City of Liverpool to publish their SDG data. Open SDG is an open source, free-to-use platform, for managing and reporting data and statistics related to the SDGs.  
 
 I found this to be a stimulating and rewarding piece of work. Being almost a complete novice at the start of my internship, I soon learnt that building an Open SDG platform is more than accessible for beginners or those lacking in prior knowledge or technical skills. I have put together a few pieces of advice and guidance for anyone else building a data platform based on Open SDG and loading data and metadata into it.
