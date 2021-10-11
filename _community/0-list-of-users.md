@@ -31,11 +31,10 @@ If you know of an implementation that should be added to this list, please let u
 |Sierra Leone|In development|
 |South Korea|<http://kostat.go.kr/sdg>|
 |Tajikistan|In development|
-|Turkey|In development|
+|Turkey|Launching soon|
+|Ukraine|In development|
 |United Kingdom|<https://sdgdata.gov.uk/>|
 |United States|<https://sdg.data.gov/>|
-
-
 
 ### Cities and regions
 
@@ -47,8 +46,17 @@ If you know of an implementation that should be added to this list, please let u
 |Cantabria|<https://ods-cantabria.github.io/ods-cantabria/>|
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 |Liverpool|<https://liverpool-sdg-data.github.io/>|
-|Lombardy|In development|
-|Madrid|In development|
+
+### Wider usage
+
+|Use|Link|
+|---|----|
+|Defra 25 Year Environment Plan|In development|
+|Vanuatu 2030: The People’s Plan|In development|
 
 \*Using older version of platform that Open SDG is based on.
 
+These countries/localities are also exploring using Open SDG: 
+
+- Lombardy
+- Madrid
