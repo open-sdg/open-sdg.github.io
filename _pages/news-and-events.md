@@ -1,6 +1,7 @@
 ---
 layout: posts
-permalink: /news
+permalink: /news-and-events
 title: "News and events"
 author_profile: false
+redirect from: /news
 ---
