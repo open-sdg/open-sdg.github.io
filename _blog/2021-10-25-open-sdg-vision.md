@@ -75,7 +75,7 @@ Below we have detailed each of the principles and what they mean:
     
     We understand that users of Open SDG have different needs when it comes to the development of their platform. Therefore, we want to make it as easy as possible for users to make the changes they need.
     
-    To do this we make popular customisations into configuration options so that even countries without developer expertise can make changes to their platform.
+    To do this we make popular customisations into configuration options so that even users without developer expertise can make changes to their platform.
     
     For those who have developer expertise, we aim to make it easy to make changes whilst still allowing use of central code where needed.
 
