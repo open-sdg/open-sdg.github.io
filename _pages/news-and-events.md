@@ -3,5 +3,5 @@ layout: posts
 permalink: /news-and-events
 title: "News and events"
 author_profile: false
-redirect from: /news
+redirect_from: /news
 ---
