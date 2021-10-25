@@ -1,6 +1,7 @@
 ---
 title: Open SDG - How we got here
 excerpt: A history of the origins and evolution of the Open SDG reporting platform
+date: 2021-01-09
 ---
 The [UN Sustainable Development
 Goals](https://sustainabledevelopment.un.org/sdgs) (SDGs) set out an ambitious
