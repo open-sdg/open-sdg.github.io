@@ -1,6 +1,7 @@
 ---
 title: Setting up an Open SDG platform for Liverpool
 excerpt: Amelia Burnham, Politics Student at University of Manchester undertook an internship with the UK SDG team. Learn about her experience setting up an Open SDG platform for the Liverpool 2030 Hub.
+date: 2021-09-21
 ---
 
 Amelia Burnham, Politics Student at University of Manchester undertook an internship with the UK SDG team. Learn about her experience setting up an Open SDG platform for the Liverpool 2030 Hub:
