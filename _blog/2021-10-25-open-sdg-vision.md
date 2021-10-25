@@ -1,6 +1,7 @@
 ---
 title: Open SDG - Our vision
 excerpt: An outline of the Open SDG vision and the principles that drive the development of Open SDG
+date: 2021-10-25
 ---
 
 We have been defining our vision for the future of Open SDG.
