@@ -40,6 +40,7 @@ If you know of an implementation that should be added to this list, please let u
 
 |City/region|Link|
 |----|----|
+|Balearic Islands|<https://ibestat.edatos.io/ods/>|
 |Barcelona|<https://sdgdata.barcelona.cat/>|
 |Bristol|<https://bristolsdgs.github.io/>|
 |Canary Islands|<https://www3.gobiernodecanarias.org/aplicaciones/appsistac/ods/>|
