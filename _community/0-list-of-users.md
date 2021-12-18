@@ -32,7 +32,7 @@ If you know of an implementation that should be added to this list, please let u
 |South Korea|<http://kostat.go.kr/sdg>|
 |Tajikistan|In development|
 |Turkey|Launching soon|
-|Ukraine|In development|
+|Ukraine|<https://sdg.ukrstat.gov.ua/>|
 |United Kingdom|<https://sdgdata.gov.uk/>|
 |United States|<https://sdg.data.gov/>|
 
