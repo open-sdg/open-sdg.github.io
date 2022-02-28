@@ -47,7 +47,7 @@ If you know of an implementation that should be added to this list, please let u
 |Cantabria|<https://ods-cantabria.github.io/ods-cantabria/>|
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 |Liverpool|<https://liverpool-sdg-data.github.io/>|
-|Treptow-Köpenick (Berlin)|Launching soon|
+|Treptow-Köpenick (Berlin)|<https://sdg-treptow-koepenick.de/>|
 |Valencia|<https://ods-valencia.github.io/estadistica/>|
 
 ### Wider usage
