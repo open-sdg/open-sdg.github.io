@@ -12,7 +12,7 @@ The two biggest changes in Open SDG 2.0.0 will be in the versions of two depende
 
 To get a preview of what your site will look and behave like with these upgraded dependencies, we have added options to enable one or both of these. Here are the steps to use these new options:
 
-1. Make sure you have [upgraded to Open SDG 1.8.0](https://open-sdg.readthedocs.io/en/latest/upgrades/upgrading-1-8-0/)
+1. Make sure you have [upgraded to Open SDG 1.8.0](https://open-sdg.readthedocs.io/en/latest/upgrades/upgrading-1-8-0/) or later
 2. Enable the two options in your site configuration. For example:
     a. If you are using the site configuration form, tick the boxes for "Bootstrap 5" and "Chart.js 3".
     b. If you are maintaining your site configuration manually, add these lines:
