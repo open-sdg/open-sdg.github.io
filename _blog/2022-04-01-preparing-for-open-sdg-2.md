@@ -143,9 +143,9 @@ Reporting Status page | _layouts/reportingstatus-bootstrap5.html
 
 If you have implemented any custom types, or you have overridden the behavior of the "line", "bar", or "binary" chart types, then here is a quick description of the new architecture for chart types.
 
-Historically each chart type has been defined in [the `_includes/components/charts` folder](https://github.com/open-sdg/open-sdg/tree/1.8.0-dev/_includes/components/charts) using the `opensdg.chartConfigAlter` function.
+Historically each chart type has been defined in the [_includes/components/charts folder](https://github.com/open-sdg/open-sdg/tree/1.8.0-dev/_includes/components/charts) using the `opensdg.chartConfigAlter` function.
 
-By contrast, with Chart.js 3, the chart types are defined in [the `_includes/assets/js/view](https://github.com/open-sdg/open-sdg/tree/2.0.0-dev/_includes/assets/js/view) folder by adding a function to the `opensdg.chartTypes` object.
+By contrast, with Chart.js 3, the chart types are defined in the [_includes/assets/js/view folder](https://github.com/open-sdg/open-sdg/tree/2.0.0-dev/_includes/assets/js/view) by adding a function to the `opensdg.chartTypes` object.
 
 So, to define your custom chart type, in your custom javascript you would add an object to `opensdg.chartTypes` in the same way. For example, [here is how the "bar" type is defined](https://github.com/open-sdg/open-sdg/blob/2.0.0-dev/_includes/assets/js/view/chartTypeBar.js).
 
