@@ -116,8 +116,8 @@ Here is the list of files that have alternate version for Chart.js 3 in Open SDG
 
 Original version | Alternate Chart.js 3 version
 --- | ---
-_includes/assets/js/chartjs/accessibleCharts.js | _includes/assets/js/chartjs/accessibleCharts**-chartjs3**.js
-_includes/assets/js/indicatorView.js | _includes/assets/js/indicatorView**-chartjs3**.js
+_includes/assets/js/chartjs/accessibleCharts.js | _includes/assets/js/chartjs/accessibleCharts<strong>-chartjs3</strong>.js
+_includes/assets/js/indicatorView.js | _includes/assets/js/indicatorView<strong>-chartjs3</strong>.js
 
 ### Bootstrap 5 layouts
 
