@@ -149,6 +149,8 @@ By contrast, with Chart.js 3, the chart types are defined in the [_includes/asse
 
 So, to define your custom chart type, in your custom javascript you would add an object to `opensdg.chartTypes` in the same way. For example, [here is how the "bar" type is defined](https://github.com/open-sdg/open-sdg/blob/2.0.0-dev/_includes/assets/js/view/chartTypeBar.js).
 
+To override the behavior of one of the core chart types ("line", "bar", and "binary") you can override that particular file (such as the chartTypeBar.js file linked above) in the usual way.
+
 ## Summary
 
 In summary, in Open SDG 2.0.0 we will be upgrading to Bootstrap 5 and Chart.js 3. As of Open SDG 1.8.0, there are optional settings that can be used to preview your site with these upgraded versions. We recommend that you take advantage of these settings, to ensure that your upgrade to Open SDG 2.0.0 will be as seamless as possible. If you are not overriding any files, the process is quite easy. If you are overriding files, you might need to make some adjustments to your versions, as described above.
