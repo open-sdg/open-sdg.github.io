@@ -45,25 +45,14 @@ If you *are* overriding some Open SDG files, then read on for details on what to
 
 ### Overridden files for Bootstrap 5 support
 
-Upgrading to Bootstrap 5 required a few changes to files in Open SDG. Here is a list of files that have been changed to support Bootstrap 5:
+Upgrading to Bootstrap 5 required a many changes to files in Open SDG. Here is a list of files that have been changed in-place to support Bootstrap 5:
 
 1. _includes/assets/js/tabs.js
 2. _includes/scripts.html
 3. _layouts/goals.html
 4. assets/js/sdg.js
 
-### Overridden files for Chart.js 3 support
-
-Upgrading to Chart.js required several changes as well. Here is a list of files that have been changed to support Chart.js 3:
-
-1. _includes/assets/js/chartjs/accessibleCharts.js
-2. _includes/assets/js/chartjs/noDataMessage.js
-3. _includes/assets/js/chartjs/rescaler.js
-4. _includes/components/charts/annotation_presets.js
-5. _includes/components/charts/chart.html
-6. _includes/components/charts/line.html
-7. _includes/scripts.html
-8. assets/js/sdg.js
+Note that there are many more, as well, that are in an alternate location. More on that in the next section.
 
 ### Alternate files for Bootstrap 5 support
 
@@ -101,9 +90,24 @@ _includes/components/language-toggle.html | _includes/**bootstrap5**/components/
 _includes/components/previous-next-links.html | _includes/**bootstrap5**/components/previous-next-links.html
 _includes/footer.html | _includes/**bootstrap5**/footer.html
 _includes/header.html | _includes/**bootstrap5**/header.html
-_includes/navigation-link.html | _includes/components/navigation-link.html
+_includes/navigation-link.html | _includes/**bootstrap5**/navigation-link.html
 _includes/navigation.html | _includes/**bootstrap5**/navigation.html
 _includes/search.html | _includes/**bootstrap5**/search.html
+
+### Overridden files for Chart.js 3 support
+
+Upgrading to Chart.js required several changes as well. Here is a list of files that have been changed to support Chart.js 3:
+
+1. _includes/assets/js/chartjs/accessibleCharts.js
+2. _includes/assets/js/chartjs/noDataMessage.js
+3. _includes/assets/js/chartjs/rescaler.js
+4. _includes/components/charts/annotation_presets.js
+5. _includes/components/charts/chart.html
+6. _includes/components/charts/line.html
+7. _includes/scripts.html
+8. assets/js/sdg.js
+
+Note that there are 2 more, as well, that have been renamed. More on that in the next section.
 
 ### Alternate files for Chart.js 3 support
 
