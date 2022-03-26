@@ -123,7 +123,7 @@ Original version | Alternate Chart.js 3 version
 _includes/assets/js/chartjs/accessibleCharts.js | _includes/assets/js/chartjs/accessibleCharts<strong>-chartjs3</strong>.js
 _includes/assets/js/indicatorView.js | _includes/assets/js/indicatorView<strong>-chartjs3</strong>.js
 
-### Bootstrap 5 layouts
+## Bootstrap 5 layouts
 
 When Bootstrap 5 is enabled, the "layout" used for 2 pages will change. If you have customised either of these pages' layouts, will need to do 2 things in each case:
 
@@ -138,6 +138,16 @@ Goal page | _layouts/goal-bootstrap5.html
 Reporting Status page | _layouts/reportingstatus-bootstrap5.html
 
 > Note about the goal page: Historically Open SDG has supported a few different goal pages. Going into Open SDG 2.0.0 there will be a single version of the goal page supported in the platform. But we will be posting tutorials and examples of how to customise the goal page to achieve the other versions.
+
+## Custom chart types in Chart.js 3
+
+If you have implemented any custom types, or you have overridden the behavior of the "line", "bar", or "binary" chart types, then here is a quick description of the new architecture for chart types.
+
+Historically each chart type has been defined in [the `_includes/components/charts` folder](https://github.com/open-sdg/open-sdg/tree/1.8.0-dev/_includes/components/charts) using the `opensdg.chartConfigAlter` function.
+
+By contrast, with Chart.js 3, the chart types are defined in [the `_includes/assets/js/view](https://github.com/open-sdg/open-sdg/tree/2.0.0-dev/_includes/assets/js/view) folder by adding a function to the `opensdg.chartTypes` object.
+
+So, to define your custom chart type, in your custom javascript you would add an object to `opensdg.chartTypes` in the same way. For example, [here is how the "bar" type is defined](https://github.com/open-sdg/open-sdg/blob/2.0.0-dev/_includes/assets/js/view/chartTypeBar.js).
 
 ## Summary
 
