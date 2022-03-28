@@ -45,7 +45,7 @@ If you *are* overriding some Open SDG files, then read on for details on what to
 
 ### Overridden files for Bootstrap 5 support
 
-Upgrading to Bootstrap 5 required a many changes to files in Open SDG. Here is a list of files that have been changed in-place to support Bootstrap 5:
+Upgrading to Bootstrap 5 required many changes to files in Open SDG. Here is a list of files that have been changed in-place to support Bootstrap 5:
 
 1. _includes/assets/js/tabs.js
 2. _includes/scripts.html
@@ -96,7 +96,7 @@ _includes/search.html | _includes/**bootstrap5**/search.html
 
 ### Overridden files for Chart.js 3 support
 
-Upgrading to Chart.js required several changes as well. Here is a list of files that have been changed to support Chart.js 3:
+Upgrading to Chart.js 3 required several changes as well. Here is a list of files that have been changed to support Chart.js 3:
 
 1. _includes/assets/js/chartjs/accessibleCharts.js
 2. _includes/assets/js/chartjs/noDataMessage.js
@@ -125,7 +125,7 @@ _includes/assets/js/indicatorView.js | _includes/assets/js/indicatorView<strong>
 
 ## Bootstrap 5 layouts
 
-When Bootstrap 5 is enabled, the "layout" used for 2 pages will change. If you have customised either of these pages' layouts, will need to do 2 things in each case:
+When Bootstrap 5 is enabled, the "layout" used for 2 pages will change. If you have customised either of these pages' layouts, you will need to do 2 things in each case:
 
 1. Adjust your override according to the Bootstrap 5 version
 2. Move your override to the location of the Bootstrap 5 version
