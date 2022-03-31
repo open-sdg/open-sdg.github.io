@@ -53,7 +53,8 @@ Upgrading to Bootstrap 5 required many changes to files in Open SDG. Here is a l
 1. _includes/assets/js/tabs.js
 2. _includes/scripts.html
 3. _layouts/goals.html
-4. assets/js/sdg.js
+4. _layouts/post.html
+5. assets/js/sdg.js
 
 Note that there are many more, as well, that are in an alternate location. More on that in the next section.
 
@@ -91,6 +92,7 @@ _includes/components/language-toggle-dropdown.html | _includes/**bootstrap5**/co
 _includes/components/language-toggle-links.html | _includes/**bootstrap5**/components/language-toggle-links.html
 _includes/components/language-toggle.html | _includes/**bootstrap5**/components/language-toggle.html
 _includes/components/previous-next-links.html | _includes/**bootstrap5**/components/previous-next-links.html
+_includes/components/post/breadcrumbs.html | _includes/**bootstrap5**/components/post/breadcrumbs.html
 _includes/footer.html | _includes/**bootstrap5**/footer.html
 _includes/header.html | _includes/**bootstrap5**/header.html
 _includes/navigation-link.html | _includes/**bootstrap5**/navigation-link.html
