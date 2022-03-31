@@ -26,16 +26,19 @@ After enabling these options, you may notice a few changes to your platform. The
 
 1. The header on large screens (desktops, etc.) may change slightly. Here is what it will look like:
 
-    [image TBD]
+    ![Screenshot of the new desktop header](/assets/images/2022-04-01-preparing-for-open-sdg-2/header-desktop.png)
+
 2. The header on small screens (phones, etc.) will change noticably, to a "hamburger-menu" approach. Here is what that will look like:
 
-    [image TBD]
+    ![Screenshot of the new desktop header](/assets/images/2022-04-01-preparing-for-open-sdg-2/header-mobile.png)
+
 3. If you were not already using the "frontpage-alt" layout, then the frontpage will gain some additional sections. Here is what it will look like:
 
-    [image TBD]
+    ![Screenshot of the new frontpage](/assets/images/2022-04-01-preparing-for-open-sdg-2/frontpage.png)
+
 4. Depending on which layout you were using for goals, you may notice some changes to the goal pages. Here is what they will look like:
 
-    [image TBD]
+    ![Screenshot of the new goal page](/assets/images/2022-04-01-preparing-for-open-sdg-2/goal-page.png)
 
 ## Overriden files
 
