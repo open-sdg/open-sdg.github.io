@@ -141,6 +141,7 @@ Page | Bootstrap 5 layout
 --- | ---
 Goal page | _layouts/goal-bootstrap5.html
 Reporting Status page | _layouts/reportingstatus-bootstrap5.html
+Indicator page | _layouts/indicator-bootstrap5.html
 
 > Note about the goal page: Historically Open SDG has supported a few different goal pages. Going into Open SDG 2.0.0 there will be a single version of the goal page supported in the platform. But we will be posting tutorials and examples of how to customise the goal page to achieve the other versions.
 
