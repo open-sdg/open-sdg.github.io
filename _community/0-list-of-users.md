@@ -16,6 +16,7 @@ If you know of an implementation that should be added to this list, please let u
 |Armenia|<https://armstat.github.io/sdg-site-armenia/>|
 |Bosnia and Herzegovina|<https://sdg.bhas.gov.ba/>|
 |Canada|<https://sdgcif-data-canada-oddcic-donnee.github.io/>|
+|Faroe Islands|<https://sdg.hagstova.fo/>|
 |Germany|<https://sustainabledevelopment-germany.github.io/>|
 |Ghana* |<https://sustainabledevelopment-ghana.github.io/>|
 |Iceland|<https://visar.hagstofa.is/heimsmarkmidin/>|
