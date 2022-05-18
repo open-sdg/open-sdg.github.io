@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NOcKxS0h6CU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOcKxS0h6CU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 For an introduction to Open SDG and it’s features we recommend watching the short explainer video.
