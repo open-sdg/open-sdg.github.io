@@ -11,7 +11,7 @@ author_profile: false
 
 For an introduction to Open SDG and it’s features we recommend watching the short explainer video.
 
-<embed src="../assets/documents/Open_SDG_Promo_English.pdf" type="application/pdf">
+<object src="../assets/documents/Open_SDG_Promo_English.pdf" type="application/pdf">
 
 [Open SDG](https://github.com/open-sdg/open-sdg) is an open source, free-to-reuse platform for managing and publishing data and statistics related to the [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDGs).
 
