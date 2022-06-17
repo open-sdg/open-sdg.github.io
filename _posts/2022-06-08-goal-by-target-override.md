@@ -2,6 +2,7 @@
 title: How to implement the 2-column "goal-by-target" layout for your goal pages
 excerpt: Open SDG has a 1-column layout for goal pages, but here is how you can override it to achieve a 2-column layout
 author_profile: false
+render_with_liquid: false
 ---
 In versions of Open SDG prior to 2.0.0 there were multiple "layouts" for goal pages. Starting with 2.0.0, Open SDG will focus on a single layout for goal pages, allowing us to ensure that the entire platform lives up to our high standards for accessibility and usability. 
 
@@ -12,6 +13,7 @@ The file that controls the markup of the goal layout is [/_layouts/goal.html](ht
 As for the contents of this file, that is completely up to you. Here is a version that achieves the 2-column layout, which you can copy into your override:
 
 ```
+{% raw %}
 {% include head.html %}
 {% include header.html %}
 
@@ -92,6 +94,7 @@ As for the contents of this file, that is completely up to you. Here is a versio
 
 
 {% include footer.html %}
+{% endraw %}
 ```
 
 By itself, though, this will be lacking. It also needs some style changes in order to work. You can copy the following into your `_sass/custom.scss` file:
