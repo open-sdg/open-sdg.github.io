@@ -1,5 +1,5 @@
 ---
-title: User centered design for Open SDG
+title: User-centered design for Open SDG
 excerpt: An outline of the benefits of user research and how this has been used for Open SDG
 date: 2022-07-18
 ---
@@ -16,13 +16,9 @@ To deliver a service that meets your users’ needs, you have to understand:
 
 
 - who your likely users are 
-
 - what they’re trying to do 
-
 - how they’re trying to do it now 
-
 - how their life or work influences what they do and how 
-
 - how they use and experience existing services 
 
 
@@ -34,13 +30,9 @@ To create an effective service, your user research must:
 
 
 - include all the different kinds of people who need your service 
-
 - focus on how your service can help them get the right outcome 
-
 - not just ask people what they like or prefer, or aim to find out what’s most popular 
-
 - consider the users’ end-to-end journey and all the ways they may interact with your service 
-
 - be shared with your team and stakeholders to show them what has been learnt 
 
 
