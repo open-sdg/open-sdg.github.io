@@ -25,6 +25,7 @@ If you know of an implementation that should be added to this list, please let u
 |Lao PDR|<https://www.lsb.gov.la/sdg/>|
 |Malta|In development|
 |Moldova|In development|
+|Montenegro|<https://montestat.github.io/site/>|
 |Myanmar|In development|
 |Nepal|In development|
 |Poland* |<http://sdg.gov.pl/>|
@@ -36,6 +37,7 @@ If you know of an implementation that should be added to this list, please let u
 |Ukraine|<https://sdg.ukrstat.gov.ua/>|
 |United Kingdom|<https://sdgdata.gov.uk/>|
 |United States|<https://sdg.data.gov/>|
+|Vanuatu|In development|
 
 ### Cities and regions
 
@@ -48,6 +50,7 @@ If you know of an implementation that should be added to this list, please let u
 |Cantabria|<https://ods-cantabria.github.io/ods-cantabria/>|
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 |Liverpool|<https://liverpool-sdg-data.github.io/>|
+|Orlando|<https://geeosdgs.github.io/East-Central-Florida-Sustainable-Development-Goals-Site/>|
 |Treptow-Köpenick (Berlin)|<https://sdg-treptow-koepenick.de/>|
 |Valencia|<https://ods-valencia.github.io/estadistica/>|
 
@@ -57,7 +60,7 @@ If you know of an implementation that should be added to this list, please let u
 |---|----|
 |Defra 25 Year Environment Plan|<https://oifdata.defra.gov.uk/>|
 |Lower Saxony Migration Report 2020|In development|
-|Vanuatu 2030: The People’s Plan|In development|
+
 
 \*Using older version of platform that Open SDG is based on.
 
