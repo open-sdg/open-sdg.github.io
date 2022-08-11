@@ -16,6 +16,7 @@ If you know of an implementation that should be added to this list, please let u
 |Armenia|<https://armstat.github.io/sdg-site-armenia/>|
 |Bosnia and Herzegovina|<https://sdg.bhas.gov.ba/>|
 |Canada|<https://sdgcif-data-canada-oddcic-donnee.github.io/>|
+|Democratic Republic of the Congo|In development|
 |Faroe Islands|<https://sdg.hagstova.fo/>|
 |Germany|<https://sustainabledevelopment-germany.github.io/>|
 |Ghana* |<https://sustainabledevelopment-ghana.github.io/>|
@@ -23,14 +24,11 @@ If you know of an implementation that should be added to this list, please let u
 |Kazakhstan|In development|
 |Kyrgyzstan|<https://sustainabledevelopment-kyrgyzstan.github.io/>|
 |Lao PDR|<https://www.lsb.gov.la/sdg/>|
-|Malta|In development|
 |Moldova|In development|
 |Montenegro|<https://montestat.github.io/site/>|
-|Myanmar|In development|
 |Nepal|In development|
 |Poland* |<http://sdg.gov.pl/>|
 |Rwanda|<https://sustainabledevelopment-rwanda.github.io/>|
-|Sierra Leone|In development|
 |South Korea|<http://kostat.go.kr/sdg>|
 |Tajikistan|In development|
 |Turkey|Launching soon|
@@ -49,8 +47,8 @@ If you know of an implementation that should be added to this list, please let u
 |Canary Islands|<https://www3.gobiernodecanarias.org/aplicaciones/appsistac/ods/>|
 |Cantabria|<https://ods-cantabria.github.io/ods-cantabria/>|
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
+|City of Orlando|<https://geeosdgs.github.io/East-Central-Florida-Sustainable-Development-Goals-Site/>|
 |Liverpool|<https://liverpool-sdg-data.github.io/>|
-|Orlando|<https://geeosdgs.github.io/East-Central-Florida-Sustainable-Development-Goals-Site/>|
 |Treptow-Köpenick (Berlin)|<https://sdg-treptow-koepenick.de/>|
 |Valencia|<https://ods-valencia.github.io/estadistica/>|
 
@@ -68,3 +66,4 @@ These countries/localities are also exploring using Open SDG:
 
 - Lombardy
 - Madrid
+- Malta
