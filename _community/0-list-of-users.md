@@ -16,7 +16,7 @@ If you know of an implementation that should be added to this list, please let u
 |Armenia|<https://armstat.github.io/sdg-site-armenia/>|
 |Bosnia and Herzegovina|<https://sdg.bhas.gov.ba/>|
 |Canada|<https://sdgcif-data-canada-oddcic-donnee.github.io/>|
-|Democratic Republic of the Congo|In development|
+|Democratic Republic of the Congo|<https://odd-dashboard.cd/>|
 |Faroe Islands|<https://sdg.hagstova.fo/>|
 |Germany|<https://sustainabledevelopment-germany.github.io/>|
 |Ghana* |<https://sustainabledevelopment-ghana.github.io/>|
@@ -49,6 +49,7 @@ If you know of an implementation that should be added to this list, please let u
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 |City of Orlando|<https://geeosdgs.github.io/East-Central-Florida-Sustainable-Development-Goals-Site/>|
 |Liverpool|<https://liverpool-sdg-data.github.io/>|
+|St-Helens|<https://sdg-st-helens.github.io/st-helens-site/>|
 |Treptow-Köpenick (Berlin)|<https://sdg-treptow-koepenick.de/>|
 |Valencia|<https://ods-valencia.github.io/estadistica/>|
 
