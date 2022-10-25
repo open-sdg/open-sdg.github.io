@@ -49,7 +49,7 @@ If you know of an implementation that should be added to this list, please let u
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 |City of Orlando|<https://geeosdgs.github.io/East-Central-Florida-Sustainable-Development-Goals-Site/>|
 |Liverpool|<https://liverpool-sdg-data.github.io/>|
-|St-Helens|<https://sdg-st-helens.github.io/st-helens-site/>|
+|St Helens|<https://sdg-st-helens.github.io/st-helens-site/>|
 |Treptow-Köpenick (Berlin)|<https://sdg-treptow-koepenick.de/>|
 |Valencia|<https://ods-valencia.github.io/estadistica/>|
 
