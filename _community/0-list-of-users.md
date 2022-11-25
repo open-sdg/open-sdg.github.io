@@ -19,7 +19,7 @@ If you know of an implementation that should be added to this list, please let u
 |Democratic Republic of the Congo|<https://odd-dashboard.cd/>|
 |Faroe Islands|<https://sdg.hagstova.fo/>|
 |Germany|<https://sustainabledevelopment-germany.github.io/>|
-|Ghana* |<https://sustainabledevelopment-ghana.github.io/>|
+|Ghana* |<https://sdgs-ghana.github.io/>|
 |Iceland|<https://visar.hagstofa.is/heimsmarkmidin/>|
 |Kazakhstan|In development|
 |Kyrgyzstan|<https://sustainabledevelopment-kyrgyzstan.github.io/>|
