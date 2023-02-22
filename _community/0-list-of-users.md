@@ -7,7 +7,7 @@ permalink: /community
 ## Who is using Open SDG?
 
 Below is a list of some of the countries and localities that are currently using the Open SDG platform.
-If you know of an implementation that should be added to this list, please let us know at [opensdg@googlegroups.com](mailto:opensdg@googlegroups.com).
+If you know of an implementation that should be added to this list, please let us know at [opensdg@outlook.com](mailto:opensdg@outlook.com).
 
 ### Countries
 
