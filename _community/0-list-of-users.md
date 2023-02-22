@@ -31,7 +31,7 @@ If you know of an implementation that should be added to this list, please let u
 |Rwanda|<https://sustainabledevelopment-rwanda.github.io/>|
 |South Korea|<http://kostat.go.kr/sdg>|
 |Tajikistan|In development|
-|Turkey|Launching soon|
+|Turkey|<https://sdg.tuik.gov.tr/>|
 |Ukraine|<https://sdg.ukrstat.gov.ua/>|
 |United Kingdom|<https://sdgdata.gov.uk/>|
 |United States|<https://sdg.data.gov/>|
