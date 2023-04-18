@@ -58,7 +58,7 @@ If you know of an implementation that should be added to this list, please let u
 |Use|Link|
 |---|----|
 |Defra 25 Year Environment Plan|<https://oifdata.defra.gov.uk/>|
-|Lower Saxony Migration Report 2020|In development|
+|Lower Saxony Migration Report 2020|<https://integrationsmonitoring.niedersachsen.de/>|
 
 
 \*Using older version of platform that Open SDG is based on.
