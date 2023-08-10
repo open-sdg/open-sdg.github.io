@@ -1,8 +1,8 @@
 ---
- title: Newsletter
- exerpt: Open SDG's first ever newsletter!
+title: Newsletter
+exerpt: Open SDG's first ever newsletter!
 author_profile: false
- ---
+---
 
 Welcome to our first newsletter which we aim to issue throughout the year to keep our Open SDG users and community up to date with the latest relevant information. You can opt out of receiving the newsletter at any time by using the link at the bottom of the email. If there are any specific topics you would like to hear more about, please also let us know! 
 
