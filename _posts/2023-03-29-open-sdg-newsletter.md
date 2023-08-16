@@ -81,6 +81,3 @@ This is due to the python library, openpyxl, being updated so we need to pin the
 
 
  If you would like to recieve this newsletter you can sign up by emailing [opensdg@outlook.com](opensdg@outlook.com)
- 
-
- 
