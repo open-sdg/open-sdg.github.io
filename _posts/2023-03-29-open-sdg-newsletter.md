@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: Newsletter 1 - March
 exerpt: Open SDG's first ever newsletter!
 author_profile: false
 ---
