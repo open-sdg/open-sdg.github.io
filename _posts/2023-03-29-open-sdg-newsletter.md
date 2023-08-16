@@ -66,7 +66,7 @@ There are three main fixes relevant to most Open SDG platforms that have been ne
 
  
 
-###Openpyxl update 
+### Openpyxl update 
 
 You may be experiencing a build failure with the following error:  
 
