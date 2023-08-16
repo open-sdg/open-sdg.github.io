@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: Newsletter 2 - July
 exerpt: The second edition of Open SDG's newsletter
 author_profile: false
 ---
