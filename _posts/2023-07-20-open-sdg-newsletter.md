@@ -29,3 +29,5 @@ Also, congratulations to [Ingolstadt](https://sdg.nachhaltigkeitsagenda-ingolsta
 Latest hotfixes/GitHub discussions 
 Pydantic error 
 Data builds have been erroring with the message: “cannot import name 'make_generic_validator' from 'pydantic.class_validators'.” This can be easily fixed by adding the line: “pydantic==1.*” to your requirements.txt file in your data repository. See the announcement on GitHub for more details. 
+
+ If you would like to recieve this newsletter you can sign up by emailing [opensdg@outlook.com](opensdg@outlook.com)
