@@ -56,7 +56,7 @@ Thanks to Vanuatu’s work, we have been able to adapt this functionality more w
 
  
 
-Also, congratulations to Turkey who have recently launched their national reporting platform [here](https://sdg.tuik.gov.tr/). You can check out all Open SDG live platforms on our community page [here.](https://open-sdg.org/community) 
+Also, congratulations to Turkey who have recently launched their [national reporting platform.](https://sdg.tuik.gov.tr/). You can check out all Open SDG live platforms on our [community page.](https://open-sdg.org/community) 
 
  
 
@@ -76,8 +76,8 @@ AttributeError: 'ReadOnlyWorksheet' object has no attribute 'defined_names'
 
  
 
-This is due to the python library, openpyxl, being updated so we need to pin the requirements.txt file to the previous version that Open SDG uses – see discussion on GitHub for the code to fix [here](https://github.com/open-sdg/open-sdg/discussions/1947). 
+This is due to the python library, openpyxl, being updated so we need to pin the requirements.txt file to the previous version that Open SDG uses – see [discussion on GitHub]((https://github.com/open-sdg/open-sdg/discussions/1947) for the code to fix.
 
 
 
- If you would like to recieve this newsletter you can sign up by emailing [opensdg@outlook.com](opensdg@outlook.com)
+ If you would like to recieve this newsletter you can sign up by emailing [opensdg@outlook.com.](opensdg@outlook.com)
