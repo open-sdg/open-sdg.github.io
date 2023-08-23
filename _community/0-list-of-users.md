@@ -48,7 +48,6 @@ If you know of an implementation that should be added to this list, please let u
 |Cantabria|<https://ods-cantabria.github.io/ods-cantabria/>|
 |City of Johannesburg|<https://sdg.joburg.org.za/>|
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
-|City of Orlando|<https://geeosdgs.github.io/East-Central-Florida-Sustainable-Development-Goals-Site/>|
 |Enzkreis|<https://agenda2030.enzkreis.de/>|
 |Ingolstadt|<https://sdg.nachhaltigkeitsagenda-ingolstadt.de/>|
 |Liverpool|<https://liverpool-sdg-data.github.io/>|
@@ -56,6 +55,7 @@ If you know of an implementation that should be added to this list, please let u
 |Treptow-Köpenick (Berlin)|<https://sdg-treptow-koepenick.de/>|
 |Valencia|<https://ods-valencia.github.io/estadistica/>|
 
+<!--|City of Orlando|<https://geeosdgs.github.io/East-Central-Florida-Sustainable-Development-Goals-Site/>|-->
 ### Wider usage
 
 |Use|Link|
