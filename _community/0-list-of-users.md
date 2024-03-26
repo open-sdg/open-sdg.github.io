@@ -46,6 +46,7 @@ If you know of an implementation that should be added to this list, please let u
 |Bristol|<https://bristolsdgs.github.io/>|
 |Canary Islands|<https://www3.gobiernodecanarias.org/aplicaciones/appsistac/ods/>|
 |Cantabria|<https://ods-cantabria.github.io/ods-cantabria/>|
+|Central Asia|<https://central-asia-sdg-platform.github.io/www/>|
 |City of Johannesburg|<https://sdg.joburg.org.za/>|
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 |Enzkreis|<https://agenda2030.enzkreis.de/>|
