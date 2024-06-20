@@ -51,6 +51,7 @@ If you know of an implementation that should be added to this list, please let u
 |City of Los Angeles|<https://sdgdata.lamayor.org/>|
 |Enzkreis|<https://agenda2030.enzkreis.de/>|
 |Ingolstadt|<https://sdg.nachhaltigkeitsagenda-ingolstadt.de/>|
+|Greater Peterborough Area (Peterborough City and County, Ontario, Canada)|In development|
 |Liverpool|<https://liverpool-sdg-data.github.io/>|
 |St Helens|<https://sdg-st-helens.github.io/st-helens-site/>|
 |Treptow-Köpenick (Berlin)|<https://sdg-treptow-koepenick.de/>|
