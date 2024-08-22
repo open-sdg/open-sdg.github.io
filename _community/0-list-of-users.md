@@ -24,6 +24,7 @@ If you know of an implementation that should be added to this list, please let u
 |Kazakhstan|In development|
 |Kyrgyzstan|<https://sustainabledevelopment-kyrgyzstan.github.io/>|
 |Lao PDR|<https://www.lsb.gov.la/sdg/>|
+|Malta|In development|
 |Moldova|In development|
 |Montenegro|<https://montestat.github.io/site/>|
 |Nepal|In development|
@@ -72,4 +73,4 @@ These countries/localities are also exploring using Open SDG:
 
 - Lombardy
 - Madrid
-- Malta
+- Vietnam
