@@ -73,4 +73,3 @@ These countries/localities are also exploring using Open SDG:
 
 - Lombardy
 - Madrid
-- Vietnam
