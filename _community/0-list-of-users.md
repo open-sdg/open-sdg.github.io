@@ -14,7 +14,9 @@ If you know of an implementation that should be added to this list, please let u
 |Country|Link|
 |----|----|
 |Armenia|<https://armstat.github.io/sdg-site-armenia/>|
+|Aruba|<https://sdgcbsaua.github.io/>|
 |Bosnia and Herzegovina|<https://sdg.bhas.gov.ba/>|
+|Cameroon|In development|
 |Canada|<https://sdgcif-data-canada-oddcic-donnee.github.io/>|
 |Democratic Republic of the Congo|<https://odd-dashboard.cd/>|
 |Faroe Islands|<https://sdg.hagstova.fo/>|
@@ -22,21 +24,25 @@ If you know of an implementation that should be added to this list, please let u
 |Ghana|<https://sdgs-ghana.github.io/>|
 |Iceland|<https://heimsmarkmidin.hagstofa.is/>|
 |Kazakhstan|In development|
+|Kenya|In development|
 |Kyrgyzstan|<https://sustainabledevelopment-kyrgyzstan.github.io/>|
 |Lao PDR|<https://www.lsb.gov.la/sdg/>|
 |Malta|In development|
-|Moldova|In development|
+|Moldova|<https://statisticamd.github.io/sdg-site-moldova/>|
 |Montenegro|<https://montestat.github.io/site/>|
 |Nepal|In development|
 |Poland* |<http://sdg.gov.pl/>|
 |Rwanda|<https://sustainabledevelopment-rwanda.github.io/>|
+|Senegal|In development|
 |South Korea|<http://kostat.go.kr/sdg>|
 |Tajikistan|In development|
 |Turkey|<https://sdg.tuik.gov.tr/>|
+|Uganda|In development|
 |Ukraine|<https://sdg.ukrstat.gov.ua/>|
 |United Kingdom|<https://sdgdata.gov.uk/>|
 |United States|<https://sdg.data.gov/>|
 |Vanuatu|In development|
+|Zimbabwe|In development|
 
 ### Cities and regions
 
