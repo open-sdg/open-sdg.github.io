@@ -14,6 +14,7 @@ If you know of an implementation that should be added to this list, please let u
 |Country|Link|
 |----|----|
 |Armenia|<https://armstat.github.io/sdg-site-armenia/>|
+|Aruba|<https://sdgcbsaua.github.io/>|
 |Bosnia and Herzegovina|<https://sdg.bhas.gov.ba/>|
 |Cameroon|In development|
 |Canada|<https://sdgcif-data-canada-oddcic-donnee.github.io/>|
