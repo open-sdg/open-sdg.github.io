@@ -42,7 +42,7 @@ If you know of an implementation that should be added to this list, please let u
 |United Kingdom|<https://sdgdata.gov.uk/>|
 |United States|<https://sdg.data.gov/>|
 |Vanuatu|In development|
-|Zimbabwe|In development|
+|Zimbabwe|<https://sdg-zimstat.github.io/>|
 
 ### Cities and regions
 
