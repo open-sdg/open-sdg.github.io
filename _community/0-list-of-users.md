@@ -41,7 +41,7 @@ If you know of an implementation that should be added to this list, please let u
 |Ukraine|<https://sdg.ukrstat.gov.ua/>|
 |United Kingdom|<https://sdgdata.gov.uk/>|
 |United States|<https://sdg.data.gov/>|
-|Vanuatu|In development|
+|Vanuatu|<https://nsdp.vnso.gov.vu/>|
 |Zimbabwe|<https://sdg-zimstat.github.io/>|
 
 ### Cities and regions
