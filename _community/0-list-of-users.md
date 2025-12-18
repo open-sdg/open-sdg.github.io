@@ -16,7 +16,7 @@ If you know of an implementation that should be added to this list, please let u
 |Armenia|<https://armstat.github.io/sdg-site-armenia/>|
 |Aruba|<https://sdgcbsaua.github.io/>|
 |Bosnia and Herzegovina|<https://sdg.bhas.gov.ba/>|
-|Cameroon|In development|
+|Cameroon|<https://opensdg-cameroon.github.io/>|
 |Canada|<https://sdgcif-data-canada-oddcic-donnee.github.io/>|
 |Democratic Republic of the Congo|<https://odd-dashboard.cd/>|
 |Faroe Islands|<https://sdg.hagstova.fo/>|
