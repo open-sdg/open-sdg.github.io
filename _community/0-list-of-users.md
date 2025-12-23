@@ -48,8 +48,8 @@ If you know of an implementation that should be added to this list, please let u
 
 |City/region|Link|
 |----|----|
-|Basque Country|<https://sdg.eustat.eus/en/>|
 |Balearic Islands|<https://ibestat.edatos.io/ods/>|
+|Basque Country|<https://sdg.eustat.eus/en/>|
 |Barcelona|<https://sdgdata.barcelona.cat/>|
 |Bristol|<https://bristolsdgs.github.io/>|
 |Canary Islands|<https://www3.gobiernodecanarias.org/aplicaciones/appsistac/ods/>|
