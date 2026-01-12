@@ -30,6 +30,7 @@ If you know of an implementation that should be added to this list, please let u
 |Malta|In development|
 |Moldova|<https://statisticamd.github.io/sdg-site-moldova/>|
 |Montenegro|<https://montestat.github.io/site/>|
+|Nigeria|<https://sdgs-nigeria.github.io/>|
 |Nepal|In development|
 |Poland* |<http://sdg.gov.pl/>|
 |Rwanda|<https://sustainabledevelopment-rwanda.github.io/>|
@@ -48,6 +49,7 @@ If you know of an implementation that should be added to this list, please let u
 
 |City/region|Link|
 |----|----|
+|Austurias|<https://sadeiasturias.github.io/indicadores-ods-asturias/>|
 |Balearic Islands|<https://ibestat.edatos.io/ods/>|
 |Basque Country|<https://sdg.eustat.eus/en/>|
 |Barcelona|<https://sdgdata.barcelona.cat/>|
