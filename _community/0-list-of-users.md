@@ -23,7 +23,7 @@ If you know of an implementation that should be added to this list, please let u
 |Germany|<https://sustainabledevelopment-germany.github.io/>|
 |Ghana|<https://sdgs-ghana.github.io/>|
 |Iceland|<https://heimsmarkmidin.hagstofa.is/>|
-|Kazakhstan|In development|
+|Kazakhstan|<https://sdgdata.stat.gov.kz/>|
 |Kenya|<https://kenya-sdg.github.io/>|
 |Kyrgyzstan|<https://sustainabledevelopment-kyrgyzstan.github.io/>|
 |Lao PDR|<https://www.lsb.gov.la/sdg/>|
