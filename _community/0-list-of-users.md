@@ -29,7 +29,7 @@ If you know of an implementation that should be added to this list, please let u
 |Lao PDR|<https://www.lsb.gov.la/sdg/>|
 |Malta|In development|
 |Moldova|<https://statisticamd.github.io/sdg-site-moldova/>|
-|Montenegro|<https://montestat.github.io/site/>|
+|Montenegro|<https://www.sdgmontenegro.me/en/>|
 |Nigeria|<https://sdgs-nigeria.github.io/>|
 |Nepal|In development|
 |Poland* |<http://sdg.gov.pl/>|
