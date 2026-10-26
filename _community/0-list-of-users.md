@@ -27,7 +27,7 @@ If you know of an implementation that should be added to this list, please let u
 |Kenya|<https://kenya-sdg.github.io/>|
 |Kyrgyzstan|<https://sustainabledevelopment-kyrgyzstan.github.io/>|
 |Lao PDR|<https://www.lsb.gov.la/sdg/>|
-|Malta|In development|
+|Malta|<https://sdgindicators.nso.gov.mt/>|
 |Moldova|<https://statisticamd.github.io/sdg-site-moldova/>|
 |Montenegro|<https://www.sdgmontenegro.me/en/>|
 |Nigeria|<https://sdgs-nigeria.github.io/>|
